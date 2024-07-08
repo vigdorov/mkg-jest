@@ -1,0 +1,21 @@
+{
+  "name": "npm_learn",
+  "version": "0.0.1",
+  "description": "This package developed for learn npm",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "lite-server -c bs-config.json",
+    "test": "jest"
+  },
+  "keywords": [
+    "npm",
+    "learn",
+    "javascript"
+  ],
+  "author": "Nikolay Vigdorov",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.7.0",
+    "lite-server": "2.6.1"
+  }
+}
